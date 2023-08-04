@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on some python projects public/private<br>I am looking for someone to collaborate and learn new things together<br>i'm currently learning pyQT and next django
+i'm currently working on some python projects public/private<br>I am looking for someone to collaborate and learn new things together
 
 
 ## 🌐 Socials:
